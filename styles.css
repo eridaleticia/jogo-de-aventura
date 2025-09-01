@@ -13,3 +13,9 @@ button {
    color:chartreuse;
    font-family:"bai jamjuree"; sans-serif;
 } 
+.passo{
+   display:nome;
+}
+.passo.ativo{
+   display: block;
+}
